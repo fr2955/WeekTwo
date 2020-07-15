@@ -13,6 +13,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Frank Ricker &lt;45108039+fr2955@users.noreply.github.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1ehobi34GTbq9jjaqSMHyk8IEZ1" />
@@ -112,5 +117,15 @@
       <workItem from="1594783261986" duration="1000" />
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="585" y="113" key="CommitChangelistDialog2" timestamp="1594783379376">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="585" y="113" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1594783379376" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1594783339985">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1594783339985" />
   </component>
 </project>
