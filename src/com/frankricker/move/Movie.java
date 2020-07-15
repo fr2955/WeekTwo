@@ -55,9 +55,9 @@ public class Movie {
         this.total = this.total + this.getPrice();
 
         if(this.festival)
-            System.out.printf("The festival ticket for " + this.name + " at %4d will cost for a person %3d " + ConsoleColors.GREEN + "$%2.2f \n" + ConsoleColors.RESET,this.time, this.age, this.getPrice());
+            System.out.printf("The Festival ticket for " + this.name + " at %4d will cost for a person %3d " + ConsoleColors.GREEN + "$%2.2f \n" + ConsoleColors.RESET,this.time, this.age, this.getPrice());
         else
-            System.out.printf("The festival ticket for " + this.name + " at %4d will cost for a person %3d " + ConsoleColors.GREEN + "$%2.2f \n" + ConsoleColors.RESET,this.time, this.age, this.getPrice());
+            System.out.printf("The Non-Festival ticket for " + this.name + " at %4d will cost for a person %3d " + ConsoleColors.GREEN + "$%2.2f \n" + ConsoleColors.RESET,this.time, this.age, this.getPrice());
         System.out.printf("Your total will be" + ConsoleColors.GREEN + " $%4.2f\n\n" + ConsoleColors.RESET, this.total);
 
     }
