@@ -75,7 +75,7 @@ public class Movie {
     }
 
     public void setTotal(int total) {
-        
+
 
         this.total = total;
     }

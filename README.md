@@ -1,2 +1,7 @@
 # WeekTwo
-Week Two Movie Ticker Generator
+<p>Week Two Movie Ticker Generator</p>
+
+`Made with Intellij` 
+
+
+
