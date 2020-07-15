@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4e68bf0b-4d9e-4c2b-a29b-bd762e7501a6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="movie" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="fr2955 &lt;fr2955@email.vccs.edu&gt;" />
+        <option value="fr2955" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SIGN_OFF_COMMIT" value="true" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\Frank\Documents\movie\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1eVj8lJbPpG7tvFvmnt7hPuVXFu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.frankricker.move.Main" />
+      <module name="movie" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4e68bf0b-4d9e-4c2b-a29b-bd762e7501a6" name="Default Changelist" comment="" />
+      <created>1594413496759</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594413496759</updated>
+      <workItem from="1594413499801" duration="11943000" />
+      <workItem from="1594572209243" duration="205000" />
+      <workItem from="1594577316188" duration="3435000" />
+      <workItem from="1594781640116" duration="525000" />
+    </task>
+    <task id="LOCAL-00001" summary="Main Push">
+      <created>1594781930217</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1594781930217</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Main Push">
+      <created>1594782016194</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1594782016194</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Main Push" />
+    <option name="LAST_COMMIT_MESSAGE" value="Main Push" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="585" y="113" key="CommitChangelistDialog2" timestamp="1594782015340">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="585" y="113" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1594782015340" />
+    <state x="740" y="260" key="FileChooserDialogImpl" timestamp="1594781709393">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="260" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1594781709393" />
+    <state x="794" y="418" width="356" height="204" key="Github.CreateGistDialog" timestamp="1594781778988">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="794" y="418" width="356" height="204" key="Github.CreateGistDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1594781778988" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1594733831363">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1594733831363" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/1920.-229.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1594606619195" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1594733831363">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1594733831363" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center/1920.-229.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1594606619195" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1594733831363">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1594733831363" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left/1920.-229.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1594606619194" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1594733831363">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1594733831363" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right/1920.-229.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1594606619195" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1594782018588">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1594782018588" />
+    <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1594781855468">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1594781855468" />
+    <state x="656" y="342" key="com.intellij.ide.util.TipDialog" timestamp="1594781689013">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="342" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1594781689013" />
+    <state x="656" y="342" key="com.intellij.ide.util.TipDialog/1920.-229.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1594577319620" />
+    <state x="693" y="310" key="git4idea.merge.GitPullDialog" timestamp="1594782082980">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="693" y="310" key="git4idea.merge.GitPullDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1594782082980" />
+    <state x="765" y="383" key="git4idea.rebase.GitRebaseDialog" timestamp="1594782127081">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="383" key="git4idea.rebase.GitRebaseDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1594782127081" />
+    <state x="666" y="147" key="refactoring.ChangeSignatureDialog" timestamp="1594422177949">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="666" y="147" key="refactoring.ChangeSignatureDialog/1920.-229.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1594422177949" />
+  </component>
+</project>
