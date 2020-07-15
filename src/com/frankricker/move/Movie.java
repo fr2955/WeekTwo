@@ -54,8 +54,11 @@ public class Movie {
         this.setPrice();
         this.total = this.total + this.getPrice();
 
-        System.out.printf("The ticket for " + this.name + " will cost " + ConsoleColors.GREEN + "$%2.2f \n" + ConsoleColors.RESET, this.getPrice());
-        System.out.printf("Your total will be" + ConsoleColors.GREEN + " $%4.2f" + ConsoleColors.RESET, this.total);
+        if(this.festival)
+            System.out.printf("The festival ticket for " + this.name + " at %4d will cost for a person %3d " + ConsoleColors.GREEN + "$%2.2f \n" + ConsoleColors.RESET,this.time, this.age, this.getPrice());
+        else
+            System.out.printf("The festival ticket for " + this.name + " at %4d will cost for a person %3d " + ConsoleColors.GREEN + "$%2.2f \n" + ConsoleColors.RESET,this.time, this.age, this.getPrice());
+        System.out.printf("Your total will be" + ConsoleColors.GREEN + " $%4.2f\n\n" + ConsoleColors.RESET, this.total);
 
     }
     //variable set / get statments
