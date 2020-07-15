@@ -54,7 +54,7 @@ public class Movie {
         this.setPrice();
         this.total = this.total + this.getPrice();
 
-        System.out.printf("The ticket for " + this.name + " will cost " + ConsoleColors.GREEN "$%2.2f \n" + ConsoleColors.RESET, this.getPrice());
+        System.out.printf("The ticket for " + this.name + " will cost " + ConsoleColors.GREEN + "$%2.2f \n" + ConsoleColors.RESET, this.getPrice());
         System.out.printf("Your total will be" + ConsoleColors.GREEN + " $%4.2f" + ConsoleColors.RESET, this.total);
 
     }
